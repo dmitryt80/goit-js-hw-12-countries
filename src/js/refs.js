@@ -7,6 +7,7 @@ const refs = {
   countryPopulation: document.querySelector('.country-population'),
   countryLangList: document.querySelector('.country-languages-list'),
   countryFlag: document.querySelector('.country-flag'),
+  countryCurrency: document.querySelector('country-currency'),
 };
 
 export default refs;

@@ -1,6 +1,15 @@
 span,
 li {
   font-weight: normal;
+  color: black;
+}
+
+body {
+  background-color: lavender;
+}
+
+.name {
+  color: darkgoldenrod;
 }
 
 .form-country {
@@ -10,7 +19,7 @@ li {
 .country-input {
   padding: 10px;
   font-size: 20px;
-  width: 600px;
+  width: 300px;
 }
 
 .country-list {
@@ -35,6 +44,7 @@ li {
   font-size: 60px;
   font-weight: 900px;
   text-align: center;
+  color: darkgoldenrod;
 }
 
 .country-block {
@@ -49,7 +59,7 @@ li {
 
 .country-flag {
   width: 100%;
-  max-height: 500px;
+  max-height: 300px;
 }
 
 .country-languages-list li {
